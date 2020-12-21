@@ -22,3 +22,5 @@ Place the Adafruit_SSD1306 library folder your <arduinosketchfolder>/libraries/ 
 You will also have to download the Adafruit GFX Graphics core which does all the circles, text, rectangles, etc. You can get it from
 https://github.com/adafruit/Adafruit-GFX-Library
 and download/install that library as well 
+
+Re Branch for SSH1106 by Rudi ARS Creative Bekasi 12-12-2020
